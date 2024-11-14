@@ -1,5 +1,6 @@
 # Sketches for kfahn
-623 sketches  
+612 sketches  
+[LYGIA\_kaleidescope\_3/2/24](https://editor.p5js.org/kfahn/sketches/ApOA0ba3i)<!-- 2024-11-14T16:14:17.934Z -->  
 [generativeKaleidescope](https://editor.p5js.org/kfahn/sketches/I29DSDQOS)<!-- 2024-11-14T14:59:20.356Z -->  
 [Sound Fractal](https://editor.p5js.org/kfahn/sketches/16qW-69XU)<!-- 2024-11-14T14:59:00.439Z -->  
 [Tie Dye Shader](https://editor.p5js.org/kfahn/sketches/sLtJxaZXQ)<!-- 2024-11-14T14:57:35.786Z -->  
@@ -15,10 +16,8 @@
 [Treemap of Coding Train Showcases](https://editor.p5js.org/kfahn/sketches/hKThc8O9o)<!-- 2024-11-10T17:29:03.766Z -->  
 [Circle Packing Diagram  of Coding Train Showcases](https://editor.p5js.org/kfahn/sketches/gp7zqBB9D)<!-- 2024-11-09T18:28:16.326Z -->  
 [Zoomable Treemap of Coding Train Showcases](https://editor.p5js.org/kfahn/sketches/snbNKwyWW)<!-- 2024-11-07T12:50:53.845Z -->  
-[Fish Face Mask - wip copy copy](https://editor.p5js.org/kfahn/sketches/62CIq7asO)<!-- 2024-10-29T22:42:19.714Z -->  
 [Spider Web](https://editor.p5js.org/kfahn/sketches/O0ELgPqeF)<!-- 2024-10-29T15:10:36.717Z -->  
 [Dahlia Flower Face Mask](https://editor.p5js.org/kfahn/sketches/BErhQGZAW)<!-- 2024-10-28T16:14:10.760Z -->  
-[fish\_mask copy](https://editor.p5js.org/kfahn/sketches/6MpmXAhEO)<!-- 2024-10-25T23:39:50.858Z -->  
 [Fish Face Mask - wip](https://editor.p5js.org/kfahn/sketches/zya0Cobo7)<!-- 2024-10-25T23:38:01.593Z -->  
 [fish\_mask](https://editor.p5js.org/kfahn/sketches/EEz0NLPbp)<!-- 2024-10-25T17:37:22.690Z -->  
 [Polar Curve Playground](https://editor.p5js.org/kfahn/sketches/fRLl8ha1C)<!-- 2024-10-25T14:08:18.958Z -->  
@@ -33,7 +32,6 @@
 [L-System-Examples](https://editor.p5js.org/kfahn/sketches/6maEEOkD2)<!-- 2024-09-30T18:09:23.274Z -->  
 [WFC with Local Storage-- two  tiles](https://editor.p5js.org/kfahn/sketches/-j45Nn1cb)<!-- 2024-09-21T20:09:45.052Z -->  
 [attractor\_stretching](https://editor.p5js.org/kfahn/sketches/yUA_zZtIq)<!-- 2024-09-17T13:39:59.832Z -->  
-[Persian Rug with color palette](https://editor.p5js.org/kfahn/sketches/2KJqdr_MC)<!-- 2024-09-14T17:57:30.836Z -->  
 [tiles with double bicorn](https://editor.p5js.org/kfahn/sketches/pnGIvvvFM)<!-- 2024-09-08T16:31:43.511Z -->  
 [Penrose\_tiling](https://editor.p5js.org/kfahn/sketches/_xN1XZolpV)<!-- 2024-08-29T19:03:32.986Z -->  
 [Page not found - koch snowflake](https://editor.p5js.org/kfahn/sketches/ZC3MhXe6Q)<!-- 2024-08-26T14:00:12.685Z -->  
@@ -54,17 +52,12 @@
 [Dragon with astroid](https://editor.p5js.org/kfahn/sketches/U-zZxqlAp)<!-- 2024-08-16T15:12:47.202Z -->  
 [Angry Dragon Animation](https://editor.p5js.org/kfahn/sketches/dbQG94Gxm)<!-- 2024-08-16T14:46:36.640Z -->  
 [Pentaplexity with craniod](https://editor.p5js.org/kfahn/sketches/WFUpx6lsq)<!-- 2024-08-16T14:43:37.216Z -->  
-[Dragon curve 404 animation copy](https://editor.p5js.org/kfahn/sketches/OW4Mq63ub)<!-- 2024-08-15T18:49:48.875Z -->  
 [Dragon curve 404](https://editor.p5js.org/kfahn/sketches/yrQg4OQ8t)<!-- 2024-08-15T18:05:20.420Z -->  
 [Butterfly flower](https://editor.p5js.org/kfahn/sketches/FbjyqPqVE)<!-- 2024-08-15T16:04:12.270Z -->  
 [L-system -circular rule-set with deltoid](https://editor.p5js.org/kfahn/sketches/GMv3XHU-4)<!-- 2024-08-14T15:55:43.752Z -->  
 [Koch snowflake with bicorn shape](https://editor.p5js.org/kfahn/sketches/i2dc_-SYO)<!-- 2024-08-14T14:39:28.520Z -->  
 [Snake-kolam with tear shape](https://editor.p5js.org/kfahn/sketches/vmOpzqqFh)<!-- 2024-08-13T18:07:49.878Z -->  
-[Cross Stitch Sampler](https://editor.p5js.org/kfahn/sketches/5Yvw9M3Yl)<!-- 2024-08-11T23:52:52.877Z -->  
-[Cross Stitch](https://editor.p5js.org/kfahn/sketches/MI66AQv1c)<!-- 2024-08-11T23:38:43.476Z -->  
 [Persian Rug - random colors](https://editor.p5js.org/kfahn/sketches/65HDqIkba)<!-- 2024-08-11T20:38:37.515Z -->  
-[Persian - rugs   - shapes](https://editor.p5js.org/kfahn/sketches/XB_M9eQUU)<!-- 2024-08-04T10:55:09.252Z -->  
-[rug - edited](https://editor.p5js.org/kfahn/sketches/mCZETp1Km)<!-- 2024-08-02T11:51:01.618Z -->  
 [Persian Rug grid](https://editor.p5js.org/kfahn/sketches/I3LewaiSv)<!-- 2024-08-01T17:47:03.501Z -->  
 [Persian Rug 2](https://editor.p5js.org/kfahn/sketches/aR0WfyBzp)<!-- 2024-07-30T21:25:31.266Z -->  
 [Mobius Transforms](https://editor.p5js.org/kfahn/sketches/TYyLq-YuQ)<!-- 2024-07-30T13:40:55.106Z -->  
@@ -75,12 +68,9 @@
 [Supershape created with p5.Geometry](https://editor.p5js.org/kfahn/sketches/qwA1Z4kq5)<!-- 2024-07-21T14:49:39.384Z -->  
 [L-system Cross with Lituus Spiral](https://editor.p5js.org/kfahn/sketches/bh0vK7wW9)<!-- 2024-07-08T21:13:40.307Z -->  
 [Fluid Simulation-createGraphics](https://editor.p5js.org/kfahn/sketches/PczOoffH4)<!-- 2024-07-06T15:48:29.940Z -->  
-[dragon-curve](https://editor.p5js.org/kfahn/sketches/f-aA14XIz)<!-- 2024-07-06T14:28:27.105Z -->  
 [Maltese Cross dragon curve](https://editor.p5js.org/kfahn/sketches/lk3dQKcJ-)<!-- 2024-07-06T14:28:01.582Z -->  
 [10Print with overlapping  Cornu Spirals](https://editor.p5js.org/kfahn/sketches/rrRuLNFZG)<!-- 2024-07-06T14:03:57.045Z -->  
-[10Print with Cornu Spiral](https://editor.p5js.org/kfahn/sketches/GWaEXMyi9)<!-- 2024-07-06T10:11:28.136Z -->  
 [Spiral](https://editor.p5js.org/kfahn/sketches/FH_8EbGYf)<!-- 2024-07-03T16:38:04.718Z -->  
-[Spirical Spiral](https://editor.p5js.org/kfahn/sketches/TUTcZHUkV)<!-- 2024-07-03T13:31:46.703Z -->  
 [Sanpiles-createGraphics](https://editor.p5js.org/kfahn/sketches/Hl7jpscnK)<!-- 2024-06-30T19:27:51.653Z -->  
 [Recursive-Islamic-star-quilt](https://editor.p5js.org/kfahn/sketches/R6T0EmC5j)<!-- 2024-06-29T19:17:39.757Z -->  
 [Recursive-Islamic-star-quilt-fix](https://editor.p5js.org/kfahn/sketches/tfP2PHrSM)<!-- 2024-06-29T11:05:40.796Z -->  
@@ -96,7 +86,6 @@
 [star\_field](https://editor.p5js.org/kfahn/sketches/zuPdrshIR)<!-- 2024-04-18T12:26:07.359Z -->  
 [Recursive chains](https://editor.p5js.org/kfahn/sketches/07y16MSSu)<!-- 2024-03-24T19:56:42.710Z -->  
 [Apollonian-gasket-flled-with-steiner-chains](https://editor.p5js.org/kfahn/sketches/0v1G3euCl)<!-- 2024-03-19T12:53:09.871Z -->  
-[LYGIA\_kaleidescope\_3/2/24](https://editor.p5js.org/kfahn/sketches/ApOA0ba3i)<!-- 2024-03-02T13:20:29.945Z -->  
 [blob-marble-buffer](https://editor.p5js.org/kfahn/sketches/4W7Rrv5zg)<!-- 2024-02-26T15:18:01.304Z -->  
 [blob-shader](https://editor.p5js.org/kfahn/sketches/7riPO3vih)<!-- 2024-02-25T18:18:26.876Z -->  
 [marble-shader](https://editor.p5js.org/kfahn/sketches/ssYqkHipz)<!-- 2024-02-25T17:33:56.268Z -->  

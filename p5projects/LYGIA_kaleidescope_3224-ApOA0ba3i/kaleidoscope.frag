@@ -8,7 +8,7 @@ uniform sampler2D u_texture;
 #define PLATFORM_WEBGL
 
 #include "lygia/color/palette/spectral.glsl"
-#include "lygia/color/pigments.glsl"
+#include "lygia/color/palette/pigments.glsl"
 
 #include "lygia/space/kaleidoscope.glsl"
 #include "lygia/sdf/lineSDF.glsl"

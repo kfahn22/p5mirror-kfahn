@@ -1,7 +1,6 @@
 # Sketches for kfahn
-623 sketches  
+612 sketches  
 [10\_print\_class](https://editor.p5js.org/kfahn/sketches/t9_B8SlJe)<!-- 2024-02-01T23:24:25.737Z -->  
-[10Print with Cornu Spiral](https://editor.p5js.org/kfahn/sketches/GWaEXMyi9)<!-- 2024-07-06T10:11:28.136Z -->  
 [10Print with overlapping  Cornu Spirals](https://editor.p5js.org/kfahn/sketches/rrRuLNFZG)<!-- 2024-07-06T14:03:57.045Z -->  
 [11.8: Video Effects with Seriously.js - hex](https://editor.p5js.org/kfahn/sketches/j8XnQ7Ga_)<!-- 2023-10-26T21:46:49.040Z -->  
 [2048 thumb](https://editor.p5js.org/kfahn/sketches/bH410_hsv)<!-- 2022-10-20T21:10:06.281Z -->  
@@ -135,8 +134,6 @@
 [completion\_moment\_latest](https://editor.p5js.org/kfahn/sketches/uFAfUBxR-)<!-- 2022-05-03T10:42:59.380Z -->  
 [completion\_moment\_shader](https://editor.p5js.org/kfahn/sketches/CGnjBjwgP)<!-- 2022-05-02T14:53:59.876Z -->  
 [cool\_design](https://editor.p5js.org/kfahn/sketches/nG2DvW89q)<!-- 2022-05-04T14:52:17.205Z -->  
-[Cross Stitch](https://editor.p5js.org/kfahn/sketches/MI66AQv1c)<!-- 2024-08-11T23:38:43.476Z -->  
-[Cross Stitch Sampler](https://editor.p5js.org/kfahn/sketches/5Yvw9M3Yl)<!-- 2024-08-11T23:52:52.877Z -->  
 [crossStitch](https://editor.p5js.org/kfahn/sketches/5k39TY53-)<!-- 2022-06-04T13:35:41.596Z -->  
 [CRT emulation](https://editor.p5js.org/kfahn/sketches/HG9Ugdkki)<!-- 2022-04-11T15:37:16.803Z -->  
 [CRT emulation copy](https://editor.p5js.org/kfahn/sketches/evwVmryLo)<!-- 2022-04-17T22:21:46.589Z -->  
@@ -160,7 +157,6 @@
 [Dragon Curve  Animation with Shapes](https://editor.p5js.org/kfahn/sketches/dWTpw8eOv)<!-- 2024-08-24T20:14:59.383Z -->  
 [Dragon curve 404](https://editor.p5js.org/kfahn/sketches/yrQg4OQ8t)<!-- 2024-08-15T18:05:20.420Z -->  
 [Dragon curve 404 animation](https://editor.p5js.org/kfahn/sketches/cN5k0ZOQ6)<!-- 2024-08-25T19:49:23.285Z -->  
-[Dragon curve 404 animation copy](https://editor.p5js.org/kfahn/sketches/OW4Mq63ub)<!-- 2024-08-15T18:49:48.875Z -->  
 [Dragon curve with shape animation](https://editor.p5js.org/kfahn/sketches/ePtGuXHE-)<!-- 2024-07-24T21:28:36.947Z -->  
 [Dragon Gear](https://editor.p5js.org/kfahn/sketches/flqahdzIm)<!-- 2024-08-17T15:46:26.772Z -->  
 [Dragon Heart](https://editor.p5js.org/kfahn/sketches/bKx0DvTE7)<!-- 2024-08-17T18:29:25.708Z -->  
@@ -168,7 +164,6 @@
 [Dragon Spiral Animation](https://editor.p5js.org/kfahn/sketches/xn9nKGbi_)<!-- 2024-08-23T22:10:24.435Z -->  
 [Dragon with astroid](https://editor.p5js.org/kfahn/sketches/U-zZxqlAp)<!-- 2024-08-16T15:12:47.202Z -->  
 [Dragon- Coding Train - logo](https://editor.p5js.org/kfahn/sketches/SEfxSN3fR)<!-- 2024-08-16T22:27:00.755Z -->  
-[dragon-curve](https://editor.p5js.org/kfahn/sketches/f-aA14XIz)<!-- 2024-07-06T14:28:27.105Z -->  
 [Driving\_in\_rain](https://editor.p5js.org/kfahn/sketches/VT0-N9KZz)<!-- 2022-04-09T11:26:59.497Z -->  
 [Droste](https://editor.p5js.org/kfahn/sketches/mpVZ1E6R5)<!-- 2024-11-14T14:56:10.705Z -->  
 [Easter](https://editor.p5js.org/kfahn/sketches/8KL7w_0JA)<!-- 2022-03-30T21:57:23.754Z -->  
@@ -183,9 +178,7 @@
 [Feathers in the wind](https://editor.p5js.org/kfahn/sketches/z1s9PP7GW)<!-- 2022-04-11T17:03:26.099Z -->  
 [filter\_effects](https://editor.p5js.org/kfahn/sketches/ufxtzBZot)<!-- 2023-10-27T19:09:35.261Z -->  
 [Fish Face Mask - wip](https://editor.p5js.org/kfahn/sketches/zya0Cobo7)<!-- 2024-10-25T23:38:01.593Z -->  
-[Fish Face Mask - wip copy copy](https://editor.p5js.org/kfahn/sketches/62CIq7asO)<!-- 2024-10-29T22:42:19.714Z -->  
 [fish\_mask](https://editor.p5js.org/kfahn/sketches/EEz0NLPbp)<!-- 2024-10-25T17:37:22.690Z -->  
-[fish\_mask copy](https://editor.p5js.org/kfahn/sketches/6MpmXAhEO)<!-- 2024-10-25T23:39:50.858Z -->  
 [fish2D](https://editor.p5js.org/kfahn/sketches/NCJpbLlMv)<!-- 2022-04-01T10:59:25.568Z -->  
 [Flock-knots-Dynamicmath copy](https://editor.p5js.org/kfahn/sketches/dqqT1-8vU)<!-- 2022-12-13T12:06:12.021Z -->  
 [flower](https://editor.p5js.org/kfahn/sketches/NMDAY993O)<!-- 2022-03-26T19:51:46.173Z -->  
@@ -320,7 +313,7 @@
 [LYGIA\_kaleidescop\_latest](https://editor.p5js.org/kfahn/sketches/H_xHm4AXs)<!-- 2023-08-09T00:27:40.564Z -->  
 [LYGIA\_kaleidescop\_v3](https://editor.p5js.org/kfahn/sketches/fKC34hK4A)<!-- 2023-08-23T18:42:12.787Z -->  
 [LYGIA\_kaleidescope](https://editor.p5js.org/kfahn/sketches/HxX7yw0lI)<!-- 2023-08-08T21:23:41.118Z -->  
-[LYGIA\_kaleidescope\_3/2/24](https://editor.p5js.org/kfahn/sketches/ApOA0ba3i)<!-- 2024-03-02T13:20:29.945Z -->  
+[LYGIA\_kaleidescope\_3/2/24](https://editor.p5js.org/kfahn/sketches/ApOA0ba3i)<!-- 2024-11-14T16:14:17.934Z -->  
 [LYGIA\_koch\_8/10](https://editor.p5js.org/kfahn/sketches/4RretseLE)<!-- 2023-08-11T00:48:54.431Z -->  
 [lygia\_koch\_curve](https://editor.p5js.org/kfahn/sketches/tN4_2Ai1x)<!-- 2023-08-01T21:15:27.640Z -->  
 [LYGIA\_koch\_curve](https://editor.p5js.org/kfahn/sketches/0V2CdSxmb)<!-- 2023-08-10T12:51:42.353Z -->  
@@ -422,12 +415,10 @@
 [Peano curve  with Cassini Oval](https://editor.p5js.org/kfahn/sketches/02aP7Ms-K)<!-- 2024-08-17T15:04:57.487Z -->  
 [Penrose\_tiling](https://editor.p5js.org/kfahn/sketches/_xN1XZolpV)<!-- 2024-08-29T19:03:32.986Z -->  
 [Pentaplexity with craniod](https://editor.p5js.org/kfahn/sketches/WFUpx6lsq)<!-- 2024-08-16T14:43:37.216Z -->  
-[Persian - rugs   - shapes](https://editor.p5js.org/kfahn/sketches/XB_M9eQUU)<!-- 2024-08-04T10:55:09.252Z -->  
 [Persian rug](https://editor.p5js.org/kfahn/sketches/Lh-XqMus2)<!-- 2024-07-29T23:17:20.113Z -->  
 [Persian Rug - random colors](https://editor.p5js.org/kfahn/sketches/65HDqIkba)<!-- 2024-08-11T20:38:37.515Z -->  
 [Persian Rug 2](https://editor.p5js.org/kfahn/sketches/aR0WfyBzp)<!-- 2024-07-30T21:25:31.266Z -->  
 [Persian Rug grid](https://editor.p5js.org/kfahn/sketches/I3LewaiSv)<!-- 2024-08-01T17:47:03.501Z -->  
-[Persian Rug with color palette](https://editor.p5js.org/kfahn/sketches/2KJqdr_MC)<!-- 2024-09-14T17:57:30.836Z -->  
 [perspective](https://editor.p5js.org/kfahn/sketches/ik6n0jXZ4)<!-- 2022-01-26T15:34:31.286Z -->  
 [phong\_illumiation](https://editor.p5js.org/kfahn/sketches/-5-XQwEvK)<!-- 2022-03-27T18:24:31.014Z -->  
 [Phyllotaxis rainbow thumb](https://editor.p5js.org/kfahn/sketches/WC7SDF11o)<!-- 2022-08-05T11:27:21.348Z -->  
@@ -478,7 +469,6 @@
 [Rotation\_with\_Koch\_fractal](https://editor.p5js.org/kfahn/sketches/enksfyy-t)<!-- 2022-08-28T21:42:41.909Z -->  
 [Rotations](https://editor.p5js.org/kfahn/sketches/bveKzyp2D)<!-- 2022-08-29T00:04:01.482Z -->  
 [rounded\_loops](https://editor.p5js.org/kfahn/sketches/9x_QVrOZg)<!-- 2022-06-04T13:57:22.760Z -->  
-[rug - edited](https://editor.p5js.org/kfahn/sketches/mCZETp1Km)<!-- 2024-08-02T11:51:01.618Z -->  
 [Sandpiles  thumb](https://editor.p5js.org/kfahn/sketches/42HgBI2X2)<!-- 2022-07-30T13:13:04.377Z -->  
 [Sanpiles-createGraphics](https://editor.p5js.org/kfahn/sketches/Hl7jpscnK)<!-- 2024-06-30T19:27:51.653Z -->  
 [scene](https://editor.p5js.org/kfahn/sketches/WBcEuJn67)<!-- 2022-04-15T23:17:11.729Z -->  
@@ -534,7 +524,6 @@
 [spinning\_gears](https://editor.p5js.org/kfahn/sketches/Xmp1-TVe6)<!-- 2023-06-29T00:11:17.440Z -->  
 [spiral](https://editor.p5js.org/kfahn/sketches/t5Wt58XLS)<!-- 2024-01-10T22:14:18.537Z -->  
 [Spiral](https://editor.p5js.org/kfahn/sketches/FH_8EbGYf)<!-- 2024-07-03T16:38:04.718Z -->  
-[Spirical Spiral](https://editor.p5js.org/kfahn/sketches/TUTcZHUkV)<!-- 2024-07-03T13:31:46.703Z -->  
 [Square dance](https://editor.p5js.org/kfahn/sketches/jw-ExNWZu)<!-- 2023-07-19T19:46:25.860Z -->  
 [star\_code](https://editor.p5js.org/kfahn/sketches/8McQQW1ja)<!-- 2023-07-31T19:53:42.531Z -->  
 [star\_field](https://editor.p5js.org/kfahn/sketches/zuPdrshIR)<!-- 2024-04-18T12:26:07.359Z -->  

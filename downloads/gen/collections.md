@@ -31,7 +31,7 @@
 [noc examples](https://editor.p5js.org/kfahn/collections/il-0b4N0S)<!-- 2023-08-28T21:39:39.890Z -->  
 [Noise](https://editor.p5js.org/kfahn/collections/yZoSyc7Yh)<!-- 2022-05-02T15:45:27.486Z -->  
 [p5 libraries](https://editor.p5js.org/kfahn/collections/fGbaitjwb)<!-- 2024-08-13T23:31:09.958Z -->  
-[p5.Geometry](https://editor.p5js.org/kfahn/collections/JNhOafEc1)<!-- 2024-06-23T14:08:05.320Z -->  
+[p5.Geometry](https://editor.p5js.org/kfahn/collections/JNhOafEc1)<!-- 2024-11-14T16:11:53.631Z -->  
 [Polar curves](https://editor.p5js.org/kfahn/collections/Z_cHEd4tO)<!-- 2024-10-24T18:58:32.566Z -->  
 [Recursion](https://editor.p5js.org/kfahn/collections/jBBQvJ829)<!-- 2024-08-05T12:49:44.225Z -->  
 [Shaders](https://editor.p5js.org/kfahn/collections/8kcmf3nDW)<!-- 2023-02-10T15:49:54.857Z -->  
@@ -189,11 +189,10 @@
 [Zoomable Treemap of Coding Train Showcases](https://editor.p5js.org/kfahn/sketches/snbNKwyWW)  
 
 # Dragon Curves
-10 sketches  
+9 sketches  
 [Angry Dragon Animation](https://editor.p5js.org/kfahn/sketches/dbQG94Gxm)  
 [Dragon Curve  Animation with Shapes](https://editor.p5js.org/kfahn/sketches/dWTpw8eOv)  
 [Dragon curve 404](https://editor.p5js.org/kfahn/sketches/yrQg4OQ8t)  
-[Dragon curve 404 animation copy](https://editor.p5js.org/kfahn/sketches/OW4Mq63ub)  
 [Dragon Heart](https://editor.p5js.org/kfahn/sketches/bKx0DvTE7)  
 [Dragon Spiral Animation](https://editor.p5js.org/kfahn/sketches/xn9nKGbi_)  
 [Dragon with astroid](https://editor.p5js.org/kfahn/sketches/U-zZxqlAp)  
@@ -397,7 +396,7 @@
 0 sketches  
 
 # p5.Geometry
-8 sketches  
+9 sketches  
 [3D_offset_gear](https://editor.p5js.org/kfahn/sketches/8cAOIsYzT)  
 [3D_Seashell](https://editor.p5js.org/kfahn/sketches/NPdma0VRe)  
 [3d_train_logo_gif](https://editor.p5js.org/kfahn/sketches/baNkdJdBE)  
@@ -405,6 +404,7 @@
 [p5.Geometry_sphere](https://editor.p5js.org/kfahn/sketches/-fqg9noeA)  
 [pin-wheel](https://editor.p5js.org/kfahn/sketches/wSfKm1hTZ)  
 [slinky](https://editor.p5js.org/kfahn/sketches/3mDBZL0jg)  
+[Spiral](https://editor.p5js.org/kfahn/sketches/FH_8EbGYf)  
 [Supershape created with p5.Geometry](https://editor.p5js.org/kfahn/sketches/qwA1Z4kq5)  
 
 # Polar curves
@@ -416,8 +416,7 @@
 [Spherical_fan](https://editor.p5js.org/kfahn/sketches/JcR-FimD_)  
 
 # Recursion
-3 sketches  
-[Persian Rug with color palette](https://editor.p5js.org/kfahn/sketches/2KJqdr_MC)  
+2 sketches  
 [Recursive chains](https://editor.p5js.org/kfahn/sketches/07y16MSSu)  
 [Recursive-Islamic-star-quilt](https://editor.p5js.org/kfahn/sketches/R6T0EmC5j)  
 

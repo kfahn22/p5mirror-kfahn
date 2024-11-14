@@ -2645,23 +2645,13 @@
         "isDeleted": false
       },
       {
-        "project": {
-          "_id": "OW4Mq63ub",
-          "name": "Dragon curve 404 animation copy",
-          "user": {
-            "_id": "617057cf46b27800249b9fba",
-            "username": "kfahn",
-            "id": "617057cf46b27800249b9fba"
-          },
-          "slug": "Dragon_curve_404_animation_copy",
-          "id": "OW4Mq63ub"
-        },
+        "project": null,
         "_id": "66c90b7b4cdb128cc140608f",
         "createdAt": "2024-08-23T22:21:47.059Z",
         "updatedAt": "2024-08-23T22:21:47.059Z",
         "id": "66c90b7b4cdb128cc140608f",
         "projectId": "OW4Mq63ub",
-        "isDeleted": false
+        "isDeleted": true
       },
       {
         "project": {
@@ -6404,11 +6394,30 @@
         "id": "66782c45122b3f0019505d24",
         "projectId": "3mDBZL0jg",
         "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "FH_8EbGYf",
+          "name": "Spiral",
+          "user": {
+            "_id": "617057cf46b27800249b9fba",
+            "username": "kfahn",
+            "id": "617057cf46b27800249b9fba"
+          },
+          "slug": "Spirical_Spiral_copy",
+          "id": "FH_8EbGYf"
+        },
+        "_id": "6736214957ff7e87e60d61c3",
+        "createdAt": "2024-11-14T16:11:53.630Z",
+        "updatedAt": "2024-11-14T16:11:53.630Z",
+        "id": "6736214957ff7e87e60d61c3",
+        "projectId": "FH_8EbGYf",
+        "isDeleted": false
       }
     ],
     "createdAt": "2023-06-30T19:08:33.158Z",
-    "updatedAt": "2024-06-23T14:08:05.320Z",
-    "__v": 16,
+    "updatedAt": "2024-11-14T16:11:53.631Z",
+    "__v": 17,
     "id": "JNhOafEc1"
   },
   {
@@ -6600,23 +6609,13 @@
         "isDeleted": true
       },
       {
-        "project": {
-          "_id": "2KJqdr_MC",
-          "name": "Persian Rug with color palette",
-          "user": {
-            "_id": "617057cf46b27800249b9fba",
-            "username": "kfahn",
-            "id": "617057cf46b27800249b9fba"
-          },
-          "slug": "Persian_Rug_with_lines",
-          "id": "2KJqdr_MC"
-        },
+        "project": null,
         "_id": "66b00340a2ec96ca503e1f10",
         "createdAt": "2024-08-04T22:40:00.081Z",
         "updatedAt": "2024-08-04T22:40:00.081Z",
         "id": "66b00340a2ec96ca503e1f10",
         "projectId": "2KJqdr_MC",
-        "isDeleted": false
+        "isDeleted": true
       }
     ],
     "createdAt": "2024-06-29T10:47:26.436Z",
