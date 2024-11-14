@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.25.0/full/pyodide.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+   
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/pyodide/v0.25.0/full/pyodide.js"></script>
+    <script type="text/javascript">
+      async function main() {
+        let pyodide = await loadPyodide();
+        await pyodide.loadPackage("micropip", "numpy");
+        const micropip = pyodide.pyimport("micropip");
+        await micropip.install("matplotlib", "numpy");
+       await pyodide.runPython(`
+       import numpy as np
+       import matplotlib.pyplot as plt
+
+       def tenprint():
+          rows = 20
+          cols = 20
+          pattern = np.random.choice([0, 1], size=(rows, cols), p=[0.3, 0.7])
+
+          # Plot the pattern with thicker lines
+          plt.figure(figsize=(4, 4))
+          plt.scatter(*np.where(pattern == 0), s=130, lw=3, marker='o', color="blue")
+          plt.scatter(*np.where(pattern == 1), s=120, lw=3, marker="D", color="orange")
+          plt.axis('off')
+          plt.show()
+       tenprint()
+        `);
+      }
+      main();
+      </script>
+    <script src="sketch.js"></script>
+  </body>
+</html>

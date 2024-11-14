@@ -1,0 +1,17 @@
+html, body {
+/*   margin: 1em; */
+  padding: 1.5em;
+  line-height: 1.6;
+  background-color: black;
+  font-size: 1.6em;
+  color: #fff;
+  font-family: 'Cubano', sans-serif;
+}
+canvas {
+  display: block;
+}
+.dropdown {
+  font-size: 40px;
+  border:none;
+  color: #0B6A88;
+}

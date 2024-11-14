@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+/*  background-image: url('https://assets.editor.p5js.org/617057cf46b27800249b9fba/ef1fb7b3-8e5f-4569-a72a-f274fe537e1c.jpg'); */
+ background-color: #66D334; 
+}
+canvas {
+  display: block;
+}

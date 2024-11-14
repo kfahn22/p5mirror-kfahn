@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 1em;
+  background-color: #70327E;
+  font-size: 50px;
+  color: #fff;
+}
+canvas {
+  display: block;
+}
+button {
+  font-size: 36px;
+  background-color: #fff;
+  border: 2px solid  #000;
+  border-radius: 7px;
+}
+.dropdown {
+  font-size: 36px;
+}

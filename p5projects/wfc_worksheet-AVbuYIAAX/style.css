@@ -1,0 +1,11 @@
+html, body {
+  margin: 0vw;
+  padding: 0;
+}
+p {
+  max-width: 475px;
+  margin-left:0px;
+}
+canvas {
+  display: block;
+}

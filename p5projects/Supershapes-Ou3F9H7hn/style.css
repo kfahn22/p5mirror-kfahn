@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0.5em;
+  background-color: #c2c2c2;
+  font-size: 28px;
+}
+canvas {
+  display: block;
+}
+.slider {
+  style: 100px; 
+}
+div {
+  display: flex;
+  flex-direction: column; 
+  line-height: 2em;
+  font-size: 24px;
+}
+.dropdown {
+  font-size: 22px;
+  line-height: 2em;
+  margin-bottom: 1em;
+}

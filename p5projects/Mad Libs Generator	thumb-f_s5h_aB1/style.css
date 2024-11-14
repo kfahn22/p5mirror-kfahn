@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #0B6A88;
+  font-size: 1.5em;
+  margin-left: .5em;
+  padding: 1.8em;
+  color: #fff;
+/*   margin-left: .2em; */
+  font-family: 'Cubano', sans-serif;
+}
+canvas {
+  display: block;
+}
+
+button {
+  font-size: .8em;
+  background-color: #F16164;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+}

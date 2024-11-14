@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #595959;
+}
+
+canvas {
+  display: block;
+}
+
+a {
+  color: #fff;
+  font-size: 1.0rem;
+}
+button {
+  font-size: 1.0rem;
+  padding: .3rem;
+}
+
+button:hover{
+  background-color: #D8D8D8;
+  color: #727272;
+  border: 0.1rem solid #8F8F8F;
+}
+
+a:hover{
+  background-color: #D8D8D8;
+  color: #727272;
+  border: 0.1rem solid #8F8F8F;
+}

@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #595959;
+}
+p, div {
+  color:#fff;
+  font-size: 16px;
+}
+canvas {
+  display: block;
+}

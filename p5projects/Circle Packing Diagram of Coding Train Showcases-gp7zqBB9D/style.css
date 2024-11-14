@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+canvas {
+  display: block;
+}
+.title {
+  color: white;
+  font-size: 3em;
+  margin-left: 3em;
+  text-align: left;
+}

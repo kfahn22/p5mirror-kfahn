@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0.5em;
+  background-color: #70327E;
+  color: #fff;
+  font-size: 80px;
+  font-family: 'Cubano', sans-serif;
+ 
+}
+canvas {
+  display: block;
+  border-style: groove;
+  border-width: 10px;
+  border-color: #000;
+  
+}
+#score {
+  color: #fff;
+}
+

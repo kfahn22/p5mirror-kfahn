@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.25.0/full/pyodide.js"></script>
+    
+<!-- 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@gradio/lite/dist/lite.css" /> -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    <div>
+      <textarea id="inputText" rows="10" cols="50">You know you can always help to make each day a special day by just your being yourself. You grow in your own way; everyone does. That’s one reason each one of us is different and special and people can like us exactly as we are.</textarea>
+    </div>
+<!--     <div>
+      <textbox id="inputChat" rows="10" cols="50">Hello</textbox>
+    </div> -->
+    <div>
+      <button id="summarize">Summarize Text</button>
+      <button id="generate">Generate Text</button>
+      <button id="classify">Classify Toxicity</button>
+    </div>
+    <p id="status">Status: Ready</p>
+    <p id="output"></p>
+<!--     <gradio-lite>
+		import gradio as gr
+
+		def greet(name):
+			return "Hello, " + name + "!"
+		
+		gr.Interface(greet, "textbox", "textbox").launch()
+	</gradio-lite> -->
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@gradio/lite/dist/lite.js"></script>
+    <script src="sketch.js" type="module"></script>
+  </body>
+</html>

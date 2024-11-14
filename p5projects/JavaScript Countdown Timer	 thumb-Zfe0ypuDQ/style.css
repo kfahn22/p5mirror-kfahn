@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #A42963;
+  color: #fff;
+  font-size: 250px;
+  text-align: center;
+  margin-top: 15vh;
+}
+canvas {
+  padding: 2em;
+  display: block;
+}

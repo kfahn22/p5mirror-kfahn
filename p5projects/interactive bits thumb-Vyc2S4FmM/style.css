@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 100pt;
+  background-color: #fff;
+  color: #black;
+}
+canvas {
+  display: block;
+}
+
+div {
+  margin-left: 2vw;
+  margin-top: 4vh;
+}

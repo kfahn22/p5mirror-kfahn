@@ -1,0 +1,40 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+  touch-action: none;
+}
+
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home").
+ Show the link that contains should open and close the topnav (.icon) */
+/* @media screen and (max-width: 600px) {
+  canvas {
+    font-size: 40px;
+  }
+  #shareDiv {
+    visibility: hidden;
+    
+  } */
+
+
+/* 
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon.
+This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (min-width: 780px) {
+  canvas  {
+   font-size:  
+  }
+}
+
+@media only screen and (min-width: 780px) {
+  .flex-container {
+    flex-direction:row;
+}
+
+shareDiv {
+  background-color: #78923b;
+} */

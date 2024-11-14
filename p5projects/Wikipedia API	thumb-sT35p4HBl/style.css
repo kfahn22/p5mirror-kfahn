@@ -1,0 +1,16 @@
+html, body {
+  background: #66D334;
+  font-size: 30px;
+}
+canvas {
+  display: block;
+}
+
+#submit {
+  font-size: 28px;
+}
+
+
+#query{
+  font-size: 28px;
+}

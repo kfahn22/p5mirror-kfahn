@@ -1,0 +1,15 @@
+html,
+body {
+  background-color: #CCC;
+  font-size: 32pt;
+}
+
+canvas {
+  display: block;
+  border-width: 2vw;
+  border-color: #9253A1;
+}
+
+button {
+  font-size: 16pt;
+}

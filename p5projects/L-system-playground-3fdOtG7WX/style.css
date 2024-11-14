@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #202020;
+  color: white;
+  font-size: 1.1em;
+}
+canvas {
+  display: block;
+  border: white 5px;
+}
+

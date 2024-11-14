@@ -1,0 +1,23 @@
+{
+  "dragon1": {
+    "axiom": "FX",
+    "rules": {
+      "X": "X+YF+",
+      "Y": "-{FZXZ}-Y",
+      "Z": "*",
+      "length_factor": "1"
+    },
+    "angle": "90",
+    "length_factor": "1"
+  },
+  "dragon2": {
+    "axiom": "FX",
+    "rules": {
+      "X": "X+YF+",
+      "Y": "-FX-Y",
+      "length_factor": "1"
+    },
+    "angle": "90",
+    "length_factor": "1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "description": "FastGAN(16 MB)",
+  "model": "https://huggingface.co/kfahn/JKGan/blob/main/50000.pth",
+  "modelSize": 64,
+  "modelLatentDim": 256
+}

@@ -1,0 +1,32 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 26px; 
+  background-color: #66D334;
+  font-family: 'Cubano', sans-serif;
+  color: #70327E;
+}
+
+canvas {
+  display: block;
+}
+
+button {
+    font-size: 20px;
+    background-color: #fff;
+    border: 1px solid  #000;
+    border-radius: 7px;
+  font-family: 'Cubano', sans-serif;
+}
+
+p {
+  font-size: 28px;
+}
+
+.dropdown {
+    align-self: flex-end;
+    font-size: 18px;
+    border: 2px solid  #000;
+    border-radius: 7px;
+  font-family: 'Cubano', sans-serif;
+}
